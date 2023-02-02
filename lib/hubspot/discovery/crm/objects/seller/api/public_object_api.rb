@@ -4,8 +4,8 @@ module Hubspot
   module Discovery
     module Crm
       module Objects
-        module PostalMail
-          class AssociationsApi
+        module Seller
+          class PublicObjectApi
             include Hubspot::Discovery::BaseApiClient
           end
         end

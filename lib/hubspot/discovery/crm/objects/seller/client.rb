@@ -4,7 +4,7 @@ module Hubspot
   module Discovery
     module Crm
       module Objects
-        module PostalMail
+        module Seller
           class Client
             include Hubspot::Discovery::BaseModuleClient
 

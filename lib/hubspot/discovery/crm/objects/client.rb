@@ -16,6 +16,7 @@ module Hubspot
               notes
               postal_mail
               tasks
+              seller
             ].freeze
           end
 
